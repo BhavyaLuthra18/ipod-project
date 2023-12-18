@@ -1,0 +1,31 @@
+/* Styling for the main display container */
+.display {
+    background-size: cover;
+    background-position: center;
+    width: 270px;
+    height: 210px;
+    margin-top: 25px;
+    border: 1.5px solid rgba(133, 156, 149, 0.868);
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Styling for a blank content div */
+.blank-div {
+    width: 270px;
+    height: 200px;
+    background: linear-gradient(rgb(114, 118, 227), rgb(224, 223, 223));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Styling for text within the blank content div */
+.empty-text {
+    margin: 5px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: cursive;
+}

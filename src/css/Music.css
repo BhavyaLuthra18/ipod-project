@@ -1,0 +1,19 @@
+/* music container */
+.music{
+    width: 270px;
+    height: 200px;
+    background-color: #E3F2FD;
+}
+
+/* heading for music */
+h3{
+    margin: 1px;
+  margin-left: 100px ;
+  
+}
+
+/* list element */
+.music #song1{
+    padding: 0px 0px;
+}
+
